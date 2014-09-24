@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="menu_items">
+        <item>Home</item>
+        <item>Search</item>
+        <item>Map</item>
+        <item>Places</item>
+    </array>
+
+</resources>
